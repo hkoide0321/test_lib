@@ -6,4 +6,4 @@ module.exports = {
 }
 
 // test
-console.log(doublePackage.doubleVal(333));
+//console.log(doublePackage.doubleVal(333));
